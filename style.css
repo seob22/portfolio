@@ -41,6 +41,10 @@ main {
     font-family: "Playwrite GB S", cursive;
     color: #ddd;
 }
+div {
+    padding: 20px;
+    background-color: #999;
+}
 footer {
     background-color: #333;
     color: white;
